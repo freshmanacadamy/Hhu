@@ -1,0 +1,8 @@
+{
+  "name": "ju-confession-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "firebase-admin": "^11.11.0"
+  }
+}
